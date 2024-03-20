@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1413466013_651605514_223132457.mp4'
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1672018281_2780249973_1971445235.mp4'
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1672018281_2618837840_212255924.mp4'
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1672018281_1094176287_2198279592.mp4'
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1672018281_1848145907_294707072.mp4'
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1672018281_1973973587_3641317975.mp4'
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1672018281_3315967912_3735839932.mp4'
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1672018281_2112046773_2411844209.mp4'
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1672018281_3315967912_2056752902.mp4'
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1672018281_776237938_1585888457.mp4'
+file 'file:D:/Manim shit/media/videos/matrix12/1080p60/partial_movie_files/MatrixShrinkingAnimation/1672018281_3315967912_816508285.mp4'
